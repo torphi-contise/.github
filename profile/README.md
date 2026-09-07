@@ -17,6 +17,8 @@ that already belongs to another account. Bullgate Billing owns catalogue, plans,
 subscriptions, one-time purchases, offers and entitlement delivery, keeping
 payment itself with external providers. Running it yourself is free.
 
+Repositories: [Concepts and documentation](https://github.com/torphi-contise/bullgate-concepts) · [Bullgate Access](https://github.com/torphi-contise/bullgate-access)
+
 Licensing is mixed: AGPL-3.0 for the services, Apache-2.0 for the SDKs.
 
 Contact: marco@torphi.com.br
